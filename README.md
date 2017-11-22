@@ -11,7 +11,7 @@ Luckily we have found a solution to make this years badge almost for free and us
 
 Cheap badges are way more inclusive and ultimately allow more people to join in on the fun coming along with congress badges. The low costs allow you to create your own Version of 1bätsch completely on your own with a limited amount of tools and materials that you probably already own. But we'll also distribute a limited number of badges at congress.
 
-Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call PApps - short for paper apps. As with the badge templates we will provide some templates for Papps. But ultimately we encourage you to be creative, go wild and implement your own Papps.
+Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call PApps - short for paper apps. As with the badge templates we will provide some templates for PApps. But ultimately we encourage you to be creative, go wild and implement your own PApps.
 
 1bätsch is fully customizable and way more than just a name tag. There is hardly anything you can't do with it. Take a look at the provided example PApps and you will see that there is a replacement for basically any app you have currently installed on e.g. your smartphone. But ultimately your creativity is the limit. So channel your inner kindergarten-self and get started.  
 
@@ -40,8 +40,8 @@ But we still need your help to develop and implement them.
 * Schedule = Stundenplan zum selbst eintragen
 * Messaging PApp = Fach mit vorgedruckten Briefen (nett designed) Rückseite mit Adressfeld / Zustellungsweg
 * Forum PApp = Plakat zum Zettel aufkleben und so Nachrichtenstränge (Bulletin Board)
-* Sudoku Papp = Normales Sudoku
-* Park ticket Papp = Normaler Parkschein
+* Sudoku PApp = Normales Sudoku
+* Park ticket PApp = Normaler Parkschein
 * Pinder Dating App = Profile auf Papier schreiben
 * Calendar App = Kalenderseiten für die vier Tage
 * Maps = Floorplan zum Weg einzeichnen lassen
@@ -66,4 +66,4 @@ In addition to the brand new PApps listed above, we also came up with some hardw
 Contributions to this project are more than welcome. You could for example create a PR for this Repo. We are always looking for new and improved designs for 1bätsch or crazy PApp ideas. And we are sure that all you origami artists out there will come up with way better designs than we did. But even more awesome than digital contributions are real physical badges and PApps that you share with you fellow congress goers.
 
 # license
-<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" width="31"  alt="WTFPL" /></a>
+<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" height="31"  alt="WTFPL" /></a>
