@@ -5,13 +5,14 @@
 DIY congress badge creation
 
 # Overview
-We are excited to present you this years congress badge. One of the toughest problems when creating a badge is to keep it affordable. Previous badges like the rad1o or the r0ket included expensive parts like microcontrollers and lcds. Luckily we have found a solution to make this years badge almost for free. 
+We are excited to present you this years congress badge. One of the toughest problems when creating a badge is to keep it affordable. Previous badges like the rad1o or the r0ket included expensive parts like microcontrollers and LCDs, consume lots of nature destroying resources, and after the event - not being used anymore - disappear somewhere.
+Luckily we have found a solution to make this years badge almost for free and use less resources.
 
-Cheap badges are way more inclusive and ultimately allow more people to join in on the fun that are congress badges. The low price point allows you to create your own Version of 1bätsch completely on your own with a limited amount of tools and materials that you probably already own. But we'll also distribute a limited number of badges at congress.
+Cheap badges are way more inclusive and ultimately allow more people to join in on the fun coming along with congress badges. The low costs allow you to create your own Version of 1bätsch completely on your own with a limited amount of tools and materials that you probably already own. But we'll also distribute a limited number of badges at congress.
 
-Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call Papps - short for paper apps. As with the badge templates we will provide some templates for Papps. But ultimately we encourage you to go wild and devise your own Papps.
+Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call Papps - short for paper apps. As with the badge templates we will provide some templates for Papps. But ultimately we encourage you to be creative, go wild and implement your own Papps.
 
-1bätsch is fully customizable and way more than just a name tag. There is hardly anything you can't do with it. Take a look at the provided Papps and you will see that there is a replacement for basically any app on currently your smartphone. But ultimately your creativity is the limit. So channel your inner kindergarten-self and get started.  
+1bätsch is fully customizable and way more than just a name tag. There is hardly anything you can't do with it. Take a look at the provided example Papps and you will see that there is a replacement for basically any app you have currently installed on e.g. your smartphone. But ultimately your creativity is the limit. So channel your inner kindergarten-self and get started.  
 
 # Tools and Materials
 Here is a list of tools and materials you'll likely use in creating your own 1bätsch and the Papps that go along with it:
