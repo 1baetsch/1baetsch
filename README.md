@@ -11,7 +11,8 @@ Well, this API is based on cut'n'pasting a lot...
 # PApps (Paper Apps)
 
 PApps are the equivalent of Apps you all know, but in our new agile, analog App environment.
-As we came up with these new innovation we already imagined some example PApps, but we still need your help to develop and implement them.
+As we started to think of this new innovative, intuitive and usable badge, we already imagined some example PApps.
+But we still need your help to develop and implement them.
 ## example PApps
 * Schedule = Stundenplan zum selbst eintragen
 * Messaging PApp = Fach mit vorgedruckten Briefen (nett designed) Rückseite mit Adressfeld / Zustellungsweg
@@ -25,7 +26,7 @@ As we came up with these new innovation we already imagined some example PApps, 
 * PInstagram = Polaroid camera
 * Dropbox = Kiste zum Zettel rein tun
 * Copy PApp = Papier zum durch schlagen
-* CLock PApp = Sieben Segment Anzeige zum selber ausmalen
+* Clock PApp = Sieben Segment Anzeige zum selber ausmalen
 * Weather App = Zettel raus halten?
 * Read only mode = Klarsichthülle
 * Encryption PApp = Envelope for 1bätsch
@@ -40,4 +41,4 @@ In addition to the brand new PApps listed above, we also came up with some hardw
 
 
 # license
-<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" width="200" height="60" alt="WTFPL" /></a>
+<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" width="" height="60" alt="WTFPL" /></a>
