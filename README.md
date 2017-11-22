@@ -1,9 +1,11 @@
 
 
 # 1bätsch
+DIY congress badge creation
+
 ### "kannste knicken" - anon
 ### "running with scissors was never more fun" - anon
-DIY congress badge creation
+
 
 # Overview
 We are excited to present you this years congress badge. One of the toughest problems when creating a badge is to keep it affordable. Previous badges like the rad1o or the r0ket included expensive parts like microcontrollers and LCDs, consume lots of nature destroying resources, and after the event - not being used anymore - disappear somewhere.
