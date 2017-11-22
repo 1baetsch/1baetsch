@@ -9,12 +9,12 @@ We are excited to present you this years congress badge. One of the toughest pro
 
 Cheap badges are way more inclusive and ultimately allow more people to join in on the fun that are congress badges. The low price point allows you to create your own Version of 1bätsch completely on your own with a limited amount of tools and materials that you probably already own. But we'll also distribute a limited number of badges at congress.
 
-Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call Papps - short for paper apps. As with the badge templates we will provide some templates for Papps. But ultimately we encourage you to go wild and devise your own Papps.
+Even more important than the badge itself are all the applications you create and run on it. We have devised a framework for those applications which we call PApps - short for Paper Apps. As with the badge templates we will provide some templates for PApps. But ultimately we encourage you to go wild and devise your own PApps.
 
-1bätsch is fully customizable and way more than just a name tag. There is hardly anything you can't do with it. Take a look at the provided Papps and you will see that there is a replacement for basically any app on currently your smartphone. But ultimately your creativity is the limit. So channel your inner kindergarten-self and get started.  
+1bätsch is fully customizable and way more than just a name tag. There is hardly anything you can't do with it. Take a look at the provided PApps and you will see that there is a replacement for basically any app on currently your smartphone. But ultimately your creativity is the limit. So channel your inner kindergarten-self and get started.  
 
 # Tools and Materials
-Here is a list of tools and materials you'll likely use in creating your own 1bätsch and the Papps that go along with it:
+Here is a list of tools and materials you'll likely use in creating your own 1bätsch and the PApps that go along with it:
 
  - Printer
  - Paper
@@ -56,11 +56,11 @@ But we still need your help to develop and implement them.
 ## Hardware addons
 In addition to the brand new PApps listed above, we also came up with some hardware addons:
 
-* Wearables = wrist band zum drauf zeichnen
-    * Fitness PApp = Strichliste zum Notieren und selbstständigem Mitzählen der Schritte
+* Wearables = wrist band you can write on
+    * Fitness PApp = Manual tally sheet of your steps
 
 # Contributions
-Contributions to this project are more than welcome. You could for example create a PR for this Repo. We are always looking for new and improved designs for 1bätsch or crazy Papp ideas. And we are sure that all you origami artists out there will come up with way better designs than we did. But even more awesome than digital contributions are real physical badges and papps that you share with you fellow congress goers.
+Contributions to this project are more than welcome. You could for example create a PR for this Repo. We are always looking for new and improved designs for 1bätsch or crazy PApp ideas. And we are sure that all you origami artists out there will come up with way better designs than we did. But even more awesome than digital contributions are real physical badges and PApps that you share with you fellow congress goers.
 
 # license
-<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" width="" height="60" alt="WTFPL" /></a>
+<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" width="31"  alt="WTFPL" /></a>
