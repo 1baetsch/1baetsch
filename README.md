@@ -57,6 +57,7 @@ but we still need your help to develop and implement them.
 * Encryption pApp = Envelope for 1bätsch / One Time Pads
 * Error message / feedback = Zettel davor kleben
 * Clipboard pApp = Tasche am bätsch dran
+* pitHUB pApp = Offene/öffentliche Ablage für auf Papier geschriebene Ideen zum mitmachen
 
 ## Hardware addons
 In addition to the brand new pApps listed above, we also came up with some hardware addons:
