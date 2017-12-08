@@ -34,6 +34,11 @@ TODO: further explain how to use the CT-37
 
 When using CT-37 table for conversion, we see how our example text "hello world" will look like in digits:
 
+Plain text:
+hello world
+converted:
+7527878594865837872
+
 
 
 
