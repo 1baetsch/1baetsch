@@ -34,11 +34,28 @@ TODO: further explain how to use the CT-37
 
 When using CT-37 table for conversion, we see how our example text "hello world" will look like in digits:
 
-Plain text:
-hello world
-converted:
-7527878594865837872
+Plain text:     
+hello world     
+converted:    
+7527878594865837872    
 
+## 3. Encryption
+
+TODO: write full text
+
+* first write down id of one time pad (first 5 digit group)
+* then split mapped plain text into 5 digit groups (and fill with e.g. "0"s)
+   * 75278 78594 86583 7872+0
+* then use the generated one time pad and substract the first one time pad 5 digit group (not the ID one) from the first 5 digit group we just created; this is done digit by digit and with modulo?!
+* e.g. lets assume we have these 4 groups in our generated one time pad:
+   12345 44444 33222 10024
+   ->
+   75278 78594 86583 78720
+  -12345 44444 33222 10024
+  =
+   63933 34150 53361 68706
+   
+* receiver has to have the CT-37 table and the same one time pad and has to add the 5 digit groups and apply modulo 10
 
 
 
