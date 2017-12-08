@@ -22,5 +22,18 @@ Remember: Only use this one time pad once, and destroy it after using.
 
 ## 2. Prepare you plain text message for encryption
 
-Use the checkerboard or some form of mapping to convert the characters into digits first.
+Use the checkerboard or some form of mapping to convert the characters of your plain text message into digits first.
+A most basic method is to assign a two-digit value to each letter (eg. A=01, B=02 and so on through Z=26).
+
+![CT-37](https://airvpn.org/uploads/monthly_08_2015/post-158612-0-10453100-1439821943.png)
+
+But this CT-37 offers ways to also integrate digits and other symbols.
+TODO: further explain how to use the CT-37
+
+"To convert numbers, always use "FIG" before and after one or more digits. Each digit is written out three times to exclude errors. You can use spaces and punctuations within the "FIG" mode. An example: "1.5 KG" = "90 111 91 555 90 77 74". The "REQ" or "REQUEST" field enables questions and spaces are created with the "SPC" field. The apostrophe (93) can be used as both apostrophe and comma. The "CODE" field is the codebook prefix and is used before each codebook value. The use of spaces before and after codebook words is not necessary."
+
+When using CT-37 table for conversion, we see how our example text "hello world" will look like in digits:
+
+
+
 
