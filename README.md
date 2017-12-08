@@ -42,22 +42,25 @@ but we still need your help to develop and implement them.
 
 * Schedule = Timetable to enter your talks and assemblies
 * Messaging pApp = Compartment with pretty (preprinted) letters / (your) address or a place to reach you on the back of each letter
-* Forum pApp = Bulletin board where you can pin messages (create threads by answering below anonther pinned message) 
 * Sudoku pApp = Regular Sudoku
 * Pinder Dating pApp = Write your profile on a piece of paper
 * Calendar pApp = 4-page-calendar (one for each day of congress)
 * Maps = Floorplan, where you or others can mark locations
 * Bookmark pApp = Regular bookmarks or post its
 * Pinstagram = Polaroid camera
-* Dropbox = Just a box to place pieces of paper in
 * Copy pApp = Carbon paper
 * Clock pApp = Seven segement display where you color in the segements youself
 * Weather pApp = Stick a piece of paper out of the window
-* Read only mode = Plastic sleeve around the bätsch
-* Encryption pApp = Envelope for 1bätsch / One Time Pads
 * Error message / feedback = Post it on top of something else
 * Clipboard pApp = Pouch on your bätsch
+
+pApps requiring centralisation or addtional hardware:
+* Dropbox = Just a box to place pieces of paper in
+* Read only mode = Plastic sleeve around the bätsch
+* Encryption pApp = Envelope for 1bätsch / One Time Pads
 * pitHUB pApp = Collaborate via a public tray for ideas written on paper
+* Forum pApp = Bulletin board where you can pin messages (create threads by answering below anonther pinned message) 
+
 
 ## Hardware addons
 In addition to the brand new pApps listed above, we also came up with some hardware addons:
