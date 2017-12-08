@@ -3,7 +3,7 @@ shortened version of this [example](https://airvpn.org/topic/14999-how-to-one-ti
 
 ## What we need:
   * 2x ten-sided dice
-  * 2x mapping of symbols to digit combinations/numbers = checkerboard [CT-37](https://airvpn.org/topic/14999-how-to-one-time-pads-perfect-encryption/#)
+  * 2x mapping of symbols to digit combinations/numbers = checkerboard [CT-37](https://airvpn.org/uploads/monthly_08_2015/post-158612-0-10453100-1439821943.png)
   * 2x pieces of paper
   * 2 people, who want to securely communicate, with some patience and basic math skills
   
