@@ -68,5 +68,5 @@ In addition to the brand new pApps listed above, we also came up with some hardw
 # Contributions
 Contributions to this project are more than welcome. You could for example create a PR for this repo. We are always looking for new and improved designs for 1bätsch or crazy pApp ideas. And we are sure that all you origami artists out there will come up with way better designs than we did. But even more awesome than digital contributions are real physical bätschs and pApps that you share with you fellow congress goers.
 
-# license
+# License
 <a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" height="31" alt="WTFPL" /></a>
