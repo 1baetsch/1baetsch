@@ -53,11 +53,12 @@ but we still need your help to develop and implement them.
 * Weather pApp = Stick a piece of paper out of the window
 * Error message / feedback = Post it on top of something else
 * Clipboard pApp = Pouch on your bätsch
+* [Health tracking pApp](./papps/6-2-1_papp.md) = Health tracking based on the 6-2-1 rule
 
 pApps requiring centralisation or addtional hardware:
 * Dropbox = Just a box to place pieces of paper in
 * Read only mode = Plastic sleeve around the bätsch
-* Encryption pApp = Envelope for 1bätsch / One Time Pads
+* [Encryption pApp](./papps/encryption_papp.md) = Envelope for 1bätsch / One Time Pads
 * pitHUB pApp = Collaborate via a public tray for ideas written on paper
 * Forum pApp = Bulletin board where you can pin messages (create threads by answering below anonther pinned message) 
 
