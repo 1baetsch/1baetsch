@@ -1,4 +1,4 @@
-# 1mätsch - A dating pApp
+# 1mätsch - Dating pApp
 Find your perfect Congress match!* :sparkling_heart:
 
 1. Go to [1maetsch.github.io](https://1maetsch.github.io). :globe_with_meridians:
